@@ -10,9 +10,7 @@ void setup() {
   pinMode(transistor2,OUTPUT);
   pinMode(transistor3,OUTPUT);
   pinMode(triac,OUTPUT);
-  pinMode(5,OUTPUT);
 
-  digitalWrite(4,LOW);
 
   Serial.begin(9600);
   Serial.println("Plase inetert a number as char  [one-on,one-off] -  [two-on,two-off] - [three-on,three-off] - [four-on,four-off] : ");
