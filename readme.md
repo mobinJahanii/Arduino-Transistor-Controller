@@ -9,7 +9,7 @@
     * Triac: 1
     * Arduino(i use Arduino UNO): 1
 
-## Eplantion
+## Eplanation
  ### Step One:
   Transformer convert 220v ac to 12v ac.
  ### Step Two:
