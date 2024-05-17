@@ -15,9 +15,9 @@
  ### Step Two:
   Diode bridge makes DC voltage.
  ### Step Three:
-  Capacitor filter noise
+  Capacitor filters noise
  ### Step Four:
-  Regulator make porven 12v DC voltage and send to Transistor
+  Regulator makes porven 12v DC voltage and send to Transistor
 
 ## Usage
 
@@ -29,9 +29,9 @@ NOTE: I config this code for `Arduino UNO`!
 git clone https://github.com/mobinJahanii/arduino-transistor-controller
 ```
 ### Step Two:
-#### Complie and Upload:
+#### Compalie and Upload:
   Open Arduino-IDE and at the menu select`File>Open File`.
-  After that if you need config port config ,Then upload the code into Arduino bord.
+  After that if you need a config ports config ,Then upload the code into Arduino bord.
 ### Step Three:
 #### Serial connection:
   In this part you can press `ctrl+shift+m` or `Tools>Sreial Manitoring` and enter the commands
